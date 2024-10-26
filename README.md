@@ -360,30 +360,4 @@ https://www.youtube.com/watch?v=oBt53YbR9Kk&t=29s
   
 ## Some more nice problems (to be updated):
 
-1. [Best Time to Buy and Sell Stock](https://leetcode.com/submissions/detail/916673578/)
-
-2. [First Bad Version](https://leetcode.com/submissions/detail/915669147/)
-
-3. [Isomorphic Strings](https://leetcode.com/submissions/detail/916216154/) 
-
-4. [Two Sum](https://leetcode.com/submissions/detail/916217157/)
-
-5. [Squares of a Sorted Array](https://leetcode.com/submissions/detail/916672517/)
-
-6. [Merge Two Sorted Lists](https://leetcode.com/submissions/detail/916672180/)
-
-7. [Is Subsequence](https://leetcode.com/submissions/detail/916216639/)
-
-8. [Two Sum II - Input Array Is Sorted](https://leetcode.com/submissions/detail/916673386/)
-
-9. [Rotate Array](https://leetcode.com/submissions/detail/916672820/)
-
-10. [Reverse Linked List](https://leetcode.com/submissions/detail/916672260/)
-
-11. [Search Insert Position](https://leetcode.com/submissions/detail/915672113/)
-  
-
-## Some good resources (to be updated):
- 
-- Bit Manipulation Reading:
-  https://www.youtube.com/watch?v=7jkIUgLC29I
+Thanks to https://github.com/ZeeshanAdilButt
